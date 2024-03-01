@@ -8,7 +8,7 @@
 
 Тестирование мобильных приложений
 
-Тестирование API
+(Тестирование API)[https://github.com/GuzMus/QA_portfolio/tree/main/API%20testing]
 
 База данных
 
