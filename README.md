@@ -17,3 +17,5 @@
 
 SQL | PostgreSQL
 
+HTML/CSS
+
