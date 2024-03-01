@@ -17,5 +17,6 @@
 
 SQL | PostgreSQL
 
-HTML/CSS
+[HTML/CSS](https://github.com/GuzMus/QA_portfolio/tree/main/HTML_CSS)
+
 
