@@ -9,7 +9,6 @@
 
 Пользовательский интерфейс | Формы | Парное тестирование 
 
-[Тестирование мобильных приложений](https://github.com/GuzMus/QA_portfolio/tree/main/Mobile%20application%20testing)
 
 [Тестирование API](https://github.com/GuzMus/QA_portfolio/tree/main/API%20testing)
 
