@@ -7,7 +7,7 @@
 
 [Тестирование веб-приложений](https://github.com/GuzMus/QA_portfolio/tree/main/Web%20Application%20Testing)
 
-Пользовательский интерфейс | Формы | Парное тестирование | DevTools 
+Пользовательский интерфейс | Формы | Парное тестирование 
 
 [Тестирование мобильных приложений](https://github.com/GuzMus/QA_portfolio/tree/main/Mobile%20application%20testing)
 
