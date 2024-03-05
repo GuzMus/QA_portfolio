@@ -10,7 +10,7 @@
 Пользовательский интерфейс | Формы | Парное тестирование 
 
 
-[Тестирование API](https://github.com/GuzMus/QA_portfolio/tree/main/API%20testing))
+[Тестирование API](https://github.com/GuzMus/QA_portfolio/tree/main/API%20testing)
 
 [База данных](https://github.com/GuzMus/QA_portfolio/tree/main/Database)
 
